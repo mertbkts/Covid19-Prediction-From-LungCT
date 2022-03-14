@@ -1,4 +1,4 @@
-# Covid19 Prediction from Computed Tomography Image of Lung
+# COVID-19 Prediction from Computed Tomography Scans by Using Deep Learning with VGG19 Architecture
 
 ## How It Works?
 ![](https://i.imgur.com/yUsQVaD.png)
