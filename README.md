@@ -31,9 +31,7 @@ www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 Train your own model by using "Model_Training.ipynb". Just enter your dataset's path into the following code, and then execute. You can also skip this process. All you have to do is using "model.h5" and "weights.hdf5" that is ready for prediction.
 
 ```
-
 dataset= # Your dataset's path
-
 ```
 
 ### Prediction
@@ -61,9 +59,9 @@ imagePaths = list(paths.list_images(path))
 #### 3-) Execute.
 
 ## Conclusion
-The final accuracy of the model is %88. You can also examine model's training history from the following figures.
-
-
+The final accuracy of the model is %88. You can also examine model's training history from the following figures:
+![](https://i.imgur.com/7GHgVvn.png)
+![](https://i.imgur.com/Prk1ha5.png)
 
 ## Citation
 
