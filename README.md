@@ -14,6 +14,9 @@ Open-source dataset "SARS-COV-2 Ct-Scan Dataset" is used to train the model. Thi
 This dataset is can be found at: 
 www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 
+## Model Visualization
+![](https://i.imgur.com/Dxyh7u9.png)
+
 ## Used Libraries and Tools
 - Tensorflow
 - Keras
