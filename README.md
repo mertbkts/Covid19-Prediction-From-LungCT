@@ -31,7 +31,7 @@ www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 ## How to use?
 
 ### Training
-Train your own model by using "Model_Training.ipynb". Just enter your dataset's path into the following code, and then execute. You can also skip this process. All you have to do is using "model.h5" and "weights.hdf5" that is ready for prediction.
+Train your own model by using "Model_Training.ipynb". Just enter your dataset's path into the following code, and then execute. You can also skip this process. All you have to do is using "model.h5" and "weights.hdf5" which is ready for prediction.
 
 ```
 dataset= # Your dataset's path
